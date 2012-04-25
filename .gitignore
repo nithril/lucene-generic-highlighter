@@ -1,4 +1,9 @@
 *.class
+.idea
+*.iml
+*.ipr
+*.iws
+target
 
 # Package Files #
 *.jar
