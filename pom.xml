@@ -31,7 +31,7 @@
     </developers>
 
     <properties>
-        <solr.version>3.5.0</solr.version>
+        <solr.version>8.8.2</solr.version>
         <lucene.version>3.5.0</lucene.version>
     </properties>
 
